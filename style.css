@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.maindiv{
+    width: 100vw;
+    height: 100vh;
+}
+.navdiv{
+    width: 100%;
+    height: 15%;
+    background-color: #3e73e8;
+    display: flex;
+    justify-content: space-between;
+}
+.navicondiv{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.navicondiv img{
+    width: 60%;
+    height: 60%;
+}
+.navsearchdiv{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navsearchdiv button{
+    border: none;
+    width: 20%;
+    height: 40%;
+    background-color: white;
+    color: #3e73e8;
+    border-radius: 5px;
+}
+.navsearchdiv input{
+    width: 70%;
+    height: 50%;
+    border: none;
+    outline: none;
+    margin-right: 1rem;
+    border-radius: 20px;
+}
+.navmenudiv{
+    width: 15%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+}
+.navmenudiv .atom{
+margin-right: 1.5rem;
+color: white;
+}
+.navmenudiv p{
+    color: white;
+}
+.navmenudiv select{
+    outline: none;
+    border: none;
+    color: white;
+    background-color: transparent;
+}
+.navrightdiv{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.navrightdiv i{
+    color:  white;
+    margin-right: 0.5rem;
+}
+.navrightdiv p{
+    color: white;
+}
+.middlesection{
+    width: 80%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10%;
+}
+.middlesection img{
+    width: 80px;
+    height: 70px;
+}
+.div1{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div2{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div3{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div4
+{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div5
+{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div6
+{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div7
+{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div8{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div9{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.div10{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.select1{
+    display: flex;
+}
+select{
+    outline: none;
+    border: none;
+}
